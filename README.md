@@ -28,6 +28,10 @@ Please find the virtual entities used in this app as below:
 - Released products V2 (mserp)
 - Sites V2 (mserp)
 - Warehouses (mserp)
+- Product master colors (mserp)
+- Product master sizes (mserp)
+- Product master configs (mserp)
+- Product master styles (mserp)
 
 ### Product Catalog
 
