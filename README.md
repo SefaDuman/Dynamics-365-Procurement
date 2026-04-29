@@ -1,5 +1,8 @@
 # Dynamics-365-Procurement
 Dynamics 365 Procurement apps and complementary features
+## Purchase Agreement Agent
+Helps procurement professionals create, manage, optimize, and monitor purchase agreements in Dynamics 365 Finance and Supply Chain Management.
+Assist procurement professionals in creating, managing, optimizing, and monitoring purchase agreements within Dynamics 365 Finance and Supply Chain Management.
 ## Purchase Requisition App
 The Purchase Requisition app is designed to streamline procurement processes through its integration with Dynamics 365 Supply Chain Management (SCM). This user-friendly Power Apps application offers a set of essential features to manage purchase requisitions, orders, inventory, and procurement tasks efficiently. This manual provides detailed guidance on how to use each screen and feature effectively.
 ### Getting Started
